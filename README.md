@@ -1,15 +1,82 @@
-# 💫 About Me:
-I’m currently working on<br>Custom WordPress plugins & themes<br>WooCommerce stores (payments, tickets, subscriptions)<br>Performance optimization & security hardening<br>REST API integrations (Spotify, custom endpoints, rate limiting)<br><br>👯 I’m looking to collaborate on<br>Open-source WordPress plugins<br>WooCommerce extensions<br>Elementor-based production websites<br>Scalable WordPress SaaS ideas<br><br>🤝 I’m looking for help with<br>Advanced Gutenberg block development<br>Plugin growth & WordPress.org marketing<br>Large-scale WordPress performance at traffic spikes<br><br>🌱 I’m currently learning<br>Advanced Gutenberg & block patterns<br>Headless WordPress<br>Modern PHP practices & React for WP<br>Accessibility (WCAG 2.1)<br><br>💬 Ask me about<br>WordPress plugin development<br>WooCommerce customization<br>Elementor (no-code & advanced layouts)<br>Speed optimization & Core Web Vitals<br>Fixing broken or hacked WordPress sites<br><br>⚡ Fun fact<br>I enjoy turning complex WordPress requirements into clean, scalable solutions
+<!-- PROFILE BANNER -->
+<h1 align="center">Hi 👋, I'm Ashish Rathod</h1>
+<h3 align="center">WordPress & WooCommerce Developer | Plugin Specialist | Performance Optimizer</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-rathod-801360191" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rathodashish121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-rathod-801360191) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathodashish121@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rathodashish121&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rathodashish121&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rathodashish121&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 **I’m currently working on**
+- Custom WordPress plugins & themes  
+- WooCommerce stores (tickets, subscriptions, payments)  
+- Performance optimization & security hardening  
+- REST API integrations (Spotify API, custom endpoints)
+
+👯 **I’m looking to collaborate on**
+- Open-source WordPress plugins  
+- WooCommerce extensions  
+- Elementor-based production websites  
+- Scalable WordPress SaaS ideas
+
+🤝 **I’m looking for help with**
+- Advanced Gutenberg block development  
+- Plugin growth on WordPress.org  
+- Large-scale WordPress performance optimization
+
+🌱 **I’m currently learning**
+- Gutenberg & block patterns  
+- Headless WordPress  
+- React for WordPress  
+- WCAG 2.1 accessibility best practices
+
+💬 **Ask me about**
+- WordPress plugin development  
+- WooCommerce customization  
+- Elementor (No-code + Advanced)  
+- Core Web Vitals & Speed Optimization  
+- Fixing hacked or broken WordPress sites
+
+⚡ **Fun fact**
+> I enjoy turning complex WordPress requirements into clean, scalable solutions 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### 🧩 CMS & Frameworks
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)](https://woocommerce.com/)
+[![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)](https://elementor.com/)
+[![Gutenberg](https://img.shields.io/badge/Gutenberg-000000?style=flat&logo=wordpress&logoColor=white)](https://developer.wordpress.org/block-editor/)
+
+### ⚙️ Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)](https://restfulapi.net/)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ashish-rathod-801360191
+- 📧 Email: rathodashish121@email.com
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**

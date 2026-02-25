@@ -31,57 +31,46 @@ I’m a professional **WordPress Developer** focused on building scalable WooCom
 I specialize in:
 
 ✔ Custom WordPress Plugin Development  
-✔ WooCommerce Customization (Tickets, Subscriptions, Payment Gateways)  
+✔ WooCommerce Customization  
 ✔ Performance Optimization & Core Web Vitals  
 ✔ WordPress Security Hardening  
-✔ REST API & Headless WordPress Integrations  
+✔ REST API Integrations  
+✔ Elementor & Gutenberg Development  
 
-I help businesses transform complex WordPress requirements into clean, scalable, production-ready solutions.
-
----
-
-## 📂 Featured Projects
-
-### 🔹 WooCommerce Ticket Booking Plugin
-Custom WooCommerce ticketing system with subscription handling, secure checkout, and payment gateway integration.
-
-### 🔹 WP Upcoming Events Plugin
-Custom WordPress plugin with shortcode support, admin settings panel, and REST API integration.
-
-### 🔹 WordPress Performance Optimization Case Study
-Optimized WooCommerce production store — improved Core Web Vitals, reduced load time, and enhanced PageSpeed scores.
+I enjoy turning complex WordPress requirements into clean, scalable, production-ready solutions.
 
 ---
 
 ## 🔥 Core Expertise
 
 ### 🧩 WordPress Development
-- Custom Plugin Architecture  
-- Advanced Gutenberg Block Development  
-- Theme Development  
+- Custom Plugin Development  
+- Theme Customization  
+- Gutenberg Block Development  
 - WordPress REST API  
-- Headless WordPress (React Integration)  
+- Headless WordPress  
 
 ### 🛒 WooCommerce Development
-- Custom Checkout & Payment Flows  
-- Subscription & Membership Systems  
-- Ticket Booking Systems  
-- Store Performance Optimization  
+- Store Setup & Customization  
+- Payment Gateway Integration  
+- Subscription Setup  
+- Checkout Optimization  
 
-### ⚡ Performance & SEO
+### ⚡ Performance & Security
 - Core Web Vitals Optimization  
-- PageSpeed Improvement  
+- PageSpeed Improvements  
 - Database Optimization  
-- Malware Removal & Security Hardening  
+- Malware Removal  
+- Security Hardening  
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced Gutenberg Block Patterns  
-- React for WordPress (Block Editor)  
+- Advanced Gutenberg Blocks  
+- React for WordPress  
 - WordPress SaaS Architecture  
-- WCAG 2.1 Accessibility Standards  
+- WCAG Accessibility Standards  
 
 ---
 
@@ -93,7 +82,7 @@ PHP | JavaScript | HTML5 | CSS3
 ### 🧩 CMS & Ecosystem
 WordPress | WooCommerce | Elementor | Gutenberg  
 
-### ⚙️ Tools & Systems
+### ⚙️ Tools
 Git | GitHub | MySQL | REST APIs  
 
 ---
@@ -128,4 +117,4 @@ Git | GitHub | MySQL | REST APIs
 
 ### 🔎 Keywords
 
-WordPress Developer India | WooCommerce Developer | Custom Plugin Developer | WordPress Performance Optimization | Core Web Vitals Expert | Headless WordPress Developer | WordPress Security Specialist | WooCommerce Expert
+WordPress Developer India | WooCommerce Developer | Custom Plugin Developer | WordPress Performance Optimization | Core Web Vitals Expert | WordPress Security Specialist
